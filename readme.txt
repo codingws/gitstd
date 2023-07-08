@@ -3,3 +3,9 @@
 개발자 목록
 1. 초심이
 2. 향심이
+
+git pull origin master
+
+git push origin master
+
+git commit -m "변경 사항을 기록"
