@@ -32,3 +32,4 @@ $ git branch: 브렌치 확인
 - 만일 이전 커밋으로 HEAD를 이동해서 해당 시점의 파일을 볼경우 분리된 HEAD(Detached Head) 상태가 된다.
 
 카트 리스트에서 추가
+detail-page 에서 작업
